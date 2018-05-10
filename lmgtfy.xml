@@ -4,6 +4,6 @@
 <os:InputEncoding>UTF-8</os:InputEncoding>
 <os:Image width="16" height="16">data:image/x-icon;base64,A</os:Image>
 <SearchForm>https://lift.blackmountainsystems.com/</SearchForm>
-<os:Url type="text/html" method="GET" template="https://lift.blackmountainsystems.com/dosearchsite.action?spaceSearch=false&queryString={searchTerms}">
+<os:Url type="text/html" method="GET" template="https://lift.blackmountainsystems.com/dosearchsite.action?queryString={searchTerms}">
 </os:Url>
 </SearchPlugin>
